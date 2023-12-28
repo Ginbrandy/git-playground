@@ -1,8 +1,6 @@
 hello git
 second - my branch
 third - mybranch1
-<<<<<<< HEAD
 some hot fix
-=======
 기능 1 추가
->>>>>>> 290fc72 (새로운 기능 추가1)
+
